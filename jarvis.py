@@ -1,3 +1,4 @@
+# JARVIS v1.0 — Local voice AI assistant for macOS
 import ollama
 import subprocess
 import webbrowser
